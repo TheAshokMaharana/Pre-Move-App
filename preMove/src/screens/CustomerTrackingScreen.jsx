@@ -7,7 +7,7 @@ import Header from '../components/Header';
 import BackButton from '../components/BackButton';
 import colors from '../theme/colors';
 
-const GOOGLE_MAPS_APIKEY = 'AIzaSyD7NldCv3iPs3JbtuGOyuH3Y9m8cWfFQkI';
+// const GOOGLE_MAPS_APIKEY = 'AIzaSyD7NldCv3iPs3JbtuGOyuH3Y9m8cWfFQkI';
 
 export default function CustomerTrackingScreen({ route, navigation }) {
   const { visitRequestId } = route.params;
