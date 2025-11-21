@@ -1,0 +1,1414 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "10coffe-maker",
+      "image": "require(\"../assets/images/Inventory_items/10coffe-maker.jpg\")"
+    },
+    {
+      "id": 2,
+      "name": "115lcd-pl",
+      "image": "require(\"../assets/images/Inventory_items/115lcd-pl.jpg\")"
+    },
+    {
+      "id": 3,
+      "name": "127high-flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/127high-flr-lamp.jpg\")"
+    },
+    {
+      "id": 4,
+      "name": "135high-flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/135high-flr-lamp.jpg\")"
+    },
+    {
+      "id": 5,
+      "name": "146painting-t",
+      "image": "require(\"../assets/images/Inventory_items/146painting-t.jpeg\")"
+    },
+    {
+      "id": 6,
+      "name": "155oval-mirror",
+      "image": "require(\"../assets/images/Inventory_items/155oval-mirror.jpg\")"
+    },
+    {
+      "id": 7,
+      "name": "160wh2",
+      "image": "require(\"../assets/images/Inventory_items/160wh2.jpg\")"
+    },
+    {
+      "id": 8,
+      "name": "178tvss",
+      "image": "require(\"../assets/images/Inventory_items/178tvss.png\")"
+    },
+    {
+      "id": 9,
+      "name": "210glas-cent-t",
+      "image": "require(\"../assets/images/Inventory_items/210glas-cent-t.jpg\")"
+    },
+    {
+      "id": 10,
+      "name": "212flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/212flr-lamp.jpg\")"
+    },
+    {
+      "id": 11,
+      "name": "216crt",
+      "image": "require(\"../assets/images/Inventory_items/216crt.jpg\")"
+    },
+    {
+      "id": 12,
+      "name": "221AquariumSmall",
+      "image": "require(\"../assets/images/Inventory_items/221AquariumSmall.jpg\")"
+    },
+    {
+      "id": 13,
+      "name": "222r2",
+      "image": "require(\"../assets/images/Inventory_items/222r2.jpg\")"
+    },
+    {
+      "id": 14,
+      "name": "2323ward",
+      "image": "require(\"../assets/images/Inventory_items/2323ward.jpg\")"
+    },
+    {
+      "id": 15,
+      "name": "254roll-bed",
+      "image": "require(\"../assets/images/Inventory_items/254roll-bed.jpg\")"
+    },
+    {
+      "id": 16,
+      "name": "266lcd-pl",
+      "image": "require(\"../assets/images/Inventory_items/266lcd-pl.jpg\")"
+    },
+    {
+      "id": 17,
+      "name": "270lcd-pl",
+      "image": "require(\"../assets/images/Inventory_items/270lcd-pl.jpg\")"
+    },
+    {
+      "id": 18,
+      "name": "272bunk-bed2",
+      "image": "require(\"../assets/images/Inventory_items/272bunk-bed2.jpg\")"
+    },
+    {
+      "id": 19,
+      "name": "275almi",
+      "image": "require(\"../assets/images/Inventory_items/275almi.jpg\")"
+    },
+    {
+      "id": 20,
+      "name": "285tabla",
+      "image": "require(\"../assets/images/Inventory_items/285tabla.jpg\")"
+    },
+    {
+      "id": 21,
+      "name": "286small-drawer",
+      "image": "require(\"../assets/images/Inventory_items/286small-drawer.jpg\")"
+    },
+    {
+      "id": 22,
+      "name": "289temple",
+      "image": "require(\"../assets/images/Inventory_items/289temple.jpg\")"
+    },
+    {
+      "id": 23,
+      "name": "28study table",
+      "image": "require(\"../assets/images/Inventory_items/28study_table.png\")"
+    },
+    {
+      "id": 24,
+      "name": "294queen-bed",
+      "image": "require(\"../assets/images/Inventory_items/294queen-bed.jpg\")"
+    },
+    {
+      "id": 25,
+      "name": "294tvss",
+      "image": "require(\"../assets/images/Inventory_items/294tvss.png\")"
+    },
+    {
+      "id": 26,
+      "name": "299metal-be",
+      "image": "require(\"../assets/images/Inventory_items/299metal-be.jpg\")"
+    },
+    {
+      "id": 27,
+      "name": "2ward",
+      "image": "require(\"../assets/images/Inventory_items/2ward.jpg\")"
+    },
+    {
+      "id": 28,
+      "name": "312bookshel2",
+      "image": "require(\"../assets/images/Inventory_items/312bookshel2.jpg\")"
+    },
+    {
+      "id": 29,
+      "name": "328rockying",
+      "image": "require(\"../assets/images/Inventory_items/328rockying.jpg\")"
+    },
+    {
+      "id": 30,
+      "name": "32d-chair",
+      "image": "require(\"../assets/images/Inventory_items/32d-chair.png\")"
+    },
+    {
+      "id": 31,
+      "name": "340wh2",
+      "image": "require(\"../assets/images/Inventory_items/340wh2.jpg\")"
+    },
+    {
+      "id": 32,
+      "name": "356piano",
+      "image": "require(\"../assets/images/Inventory_items/356piano.jpg\")"
+    },
+    {
+      "id": 33,
+      "name": "366plastic",
+      "image": "require(\"../assets/images/Inventory_items/366plastic.jpg\")"
+    },
+    {
+      "id": 34,
+      "name": "374plastic",
+      "image": "require(\"../assets/images/Inventory_items/374plastic.jpg\")"
+    },
+    {
+      "id": 35,
+      "name": "393plastic",
+      "image": "require(\"../assets/images/Inventory_items/393plastic.jpg\")"
+    },
+    {
+      "id": 36,
+      "name": "3ward",
+      "image": "require(\"../assets/images/Inventory_items/3ward.jpg\")"
+    },
+    {
+      "id": 37,
+      "name": "401flat planel-tv",
+      "image": "require(\"../assets/images/Inventory_items/401flat_planel-tv.jpg\")"
+    },
+    {
+      "id": 38,
+      "name": "403tall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/403tall-mirror.jpg\")"
+    },
+    {
+      "id": 39,
+      "name": "415guitar",
+      "image": "require(\"../assets/images/Inventory_items/415guitar.jpg\")"
+    },
+    {
+      "id": 40,
+      "name": "447center",
+      "image": "require(\"../assets/images/Inventory_items/447center.png\")"
+    },
+    {
+      "id": 41,
+      "name": "457casio",
+      "image": "require(\"../assets/images/Inventory_items/457casio.jpg\")"
+    },
+    {
+      "id": 42,
+      "name": "460sing-cot-bedd",
+      "image": "require(\"../assets/images/Inventory_items/460sing-cot-bedd.jpg\")"
+    },
+    {
+      "id": 43,
+      "name": "463bookcase",
+      "image": "require(\"../assets/images/Inventory_items/463bookcase.jpg\")"
+    },
+    {
+      "id": 44,
+      "name": "470bookcase",
+      "image": "require(\"../assets/images/Inventory_items/470bookcase.jpg\")"
+    },
+    {
+      "id": 45,
+      "name": "4722ward",
+      "image": "require(\"../assets/images/Inventory_items/4722ward.jpg\")"
+    },
+    {
+      "id": 46,
+      "name": "477display-cab",
+      "image": "require(\"../assets/images/Inventory_items/477display-cab.jpg\")"
+    },
+    {
+      "id": 47,
+      "name": "47bookshel2",
+      "image": "require(\"../assets/images/Inventory_items/47bookshel2.jpg\")"
+    },
+    {
+      "id": 48,
+      "name": "47quilt-bed",
+      "image": "require(\"../assets/images/Inventory_items/47quilt-bed.jpg\")"
+    },
+    {
+      "id": 49,
+      "name": "484wh",
+      "image": "require(\"../assets/images/Inventory_items/484wh.jpg\")"
+    },
+    {
+      "id": 50,
+      "name": "48AquariumSmall",
+      "image": "require(\"../assets/images/Inventory_items/48AquariumSmall.jpg\")"
+    },
+    {
+      "id": 51,
+      "name": "499table-lamp",
+      "image": "require(\"../assets/images/Inventory_items/499table-lamp.jpg\")"
+    },
+    {
+      "id": 52,
+      "name": "4 seater",
+      "image": "require(\"../assets/images/Inventory_items/4_seater.png\")"
+    },
+    {
+      "id": 53,
+      "name": "501pl",
+      "image": "require(\"../assets/images/Inventory_items/501pl.jpg\")"
+    },
+    {
+      "id": 54,
+      "name": "517display-cab",
+      "image": "require(\"../assets/images/Inventory_items/517display-cab.jpg\")"
+    },
+    {
+      "id": 55,
+      "name": "522side-table",
+      "image": "require(\"../assets/images/Inventory_items/522side-table.png\")"
+    },
+    {
+      "id": 56,
+      "name": "540bunk-bed",
+      "image": "require(\"../assets/images/Inventory_items/540bunk-bed.jpg\")"
+    },
+    {
+      "id": 57,
+      "name": "559single mat",
+      "image": "require(\"../assets/images/Inventory_items/559single_mat.jpg\")"
+    },
+    {
+      "id": 58,
+      "name": "55round",
+      "image": "require(\"../assets/images/Inventory_items/55round.jpg\")"
+    },
+    {
+      "id": 59,
+      "name": "560r1",
+      "image": "require(\"../assets/images/Inventory_items/560r1.jpg\")"
+    },
+    {
+      "id": 60,
+      "name": "572dining-t",
+      "image": "require(\"../assets/images/Inventory_items/572dining-t.png\")"
+    },
+    {
+      "id": 61,
+      "name": "587bean bag",
+      "image": "require(\"../assets/images/Inventory_items/587bean_bag.png\")"
+    },
+    {
+      "id": 62,
+      "name": "587tall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/587tall-mirror.jpg\")"
+    },
+    {
+      "id": 63,
+      "name": "593fi",
+      "image": "require(\"../assets/images/Inventory_items/593fi.jpg\")"
+    },
+    {
+      "id": 64,
+      "name": "598flat planel-tv",
+      "image": "require(\"../assets/images/Inventory_items/598flat_planel-tv.jpg\")"
+    },
+    {
+      "id": 65,
+      "name": "6-seater-dt",
+      "image": "require(\"../assets/images/Inventory_items/6-seater-dt.png\")"
+    },
+    {
+      "id": 66,
+      "name": "617speaker",
+      "image": "require(\"../assets/images/Inventory_items/617speaker.jpg\")"
+    },
+    {
+      "id": 67,
+      "name": "618d-speaker",
+      "image": "require(\"../assets/images/Inventory_items/618d-speaker.jpg\")"
+    },
+    {
+      "id": 68,
+      "name": "618double-b",
+      "image": "require(\"../assets/images/Inventory_items/618double-b.jpg\")"
+    },
+    {
+      "id": 69,
+      "name": "623gls coffee table",
+      "image": "require(\"../assets/images/Inventory_items/623gls_coffee_table.jpg\")"
+    },
+    {
+      "id": 70,
+      "name": "625shoe-rack",
+      "image": "require(\"../assets/images/Inventory_items/625shoe-rack.jpg\")"
+    },
+    {
+      "id": 71,
+      "name": "637tv-stand",
+      "image": "require(\"../assets/images/Inventory_items/637tv-stand.jpg\")"
+    },
+    {
+      "id": 72,
+      "name": "649almi",
+      "image": "require(\"../assets/images/Inventory_items/649almi.jpg\")"
+    },
+    {
+      "id": 73,
+      "name": "656diwan-bed",
+      "image": "require(\"../assets/images/Inventory_items/656diwan-bed.jpg\")"
+    },
+    {
+      "id": 74,
+      "name": "658dining-t",
+      "image": "require(\"../assets/images/Inventory_items/658dining-t.png\")"
+    },
+    {
+      "id": 75,
+      "name": "67flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/67flr-lamp.jpg\")"
+    },
+    {
+      "id": 76,
+      "name": "683quen-mta",
+      "image": "require(\"../assets/images/Inventory_items/683quen-mta.jpg\")"
+    },
+    {
+      "id": 77,
+      "name": "700dishwasher",
+      "image": "require(\"../assets/images/Inventory_items/700dishwasher.jpg\")"
+    },
+    {
+      "id": 78,
+      "name": "712craddle-bed",
+      "image": "require(\"../assets/images/Inventory_items/712craddle-bed.jpg\")"
+    },
+    {
+      "id": 79,
+      "name": "720d-chair",
+      "image": "require(\"../assets/images/Inventory_items/720d-chair.jpg\")"
+    },
+    {
+      "id": 80,
+      "name": "728crt-tv",
+      "image": "require(\"../assets/images/Inventory_items/728crt-tv.jpg\")"
+    },
+    {
+      "id": 81,
+      "name": "72oval-mirror",
+      "image": "require(\"../assets/images/Inventory_items/72oval-mirror.jpg\")"
+    },
+    {
+      "id": 82,
+      "name": "72retro",
+      "image": "require(\"../assets/images/Inventory_items/72retro.jpg\")"
+    },
+    {
+      "id": 83,
+      "name": "730dressing-t",
+      "image": "require(\"../assets/images/Inventory_items/730dressing-t.png\")"
+    },
+    {
+      "id": 84,
+      "name": "743coffee-t",
+      "image": "require(\"../assets/images/Inventory_items/743coffee-t.png\")"
+    },
+    {
+      "id": 85,
+      "name": "770almi",
+      "image": "require(\"../assets/images/Inventory_items/770almi.jpg\")"
+    },
+    {
+      "id": 86,
+      "name": "773table-lamp",
+      "image": "require(\"../assets/images/Inventory_items/773table-lamp.jpg\")"
+    },
+    {
+      "id": 87,
+      "name": "7896-seater-dt",
+      "image": "require(\"../assets/images/Inventory_items/7896-seater-dt.png\")"
+    },
+    {
+      "id": 88,
+      "name": "792dressing-t",
+      "image": "require(\"../assets/images/Inventory_items/792dressing-t.png\")"
+    },
+    {
+      "id": 89,
+      "name": "80rockying",
+      "image": "require(\"../assets/images/Inventory_items/80rockying.jpg\")"
+    },
+    {
+      "id": 90,
+      "name": "841r1",
+      "image": "require(\"../assets/images/Inventory_items/841r1.jpg\")"
+    },
+    {
+      "id": 91,
+      "name": "854d-chair",
+      "image": "require(\"../assets/images/Inventory_items/854d-chair.png\")"
+    },
+    {
+      "id": 92,
+      "name": "856side-table",
+      "image": "require(\"../assets/images/Inventory_items/856side-table.png\")"
+    },
+    {
+      "id": 93,
+      "name": "872single mat",
+      "image": "require(\"../assets/images/Inventory_items/872single_mat.jpg\")"
+    },
+    {
+      "id": 94,
+      "name": "882r4",
+      "image": "require(\"../assets/images/Inventory_items/882r4.jpg\")"
+    },
+    {
+      "id": 95,
+      "name": "887pho-f",
+      "image": "require(\"../assets/images/Inventory_items/887pho-f.jpg\")"
+    },
+    {
+      "id": 96,
+      "name": "888small-drawer",
+      "image": "require(\"../assets/images/Inventory_items/888small-drawer.jpg\")"
+    },
+    {
+      "id": 97,
+      "name": "88tv-stand",
+      "image": "require(\"../assets/images/Inventory_items/88tv-stand.jpg\")"
+    },
+    {
+      "id": 98,
+      "name": "893harmonium",
+      "image": "require(\"../assets/images/Inventory_items/893harmonium.jpg\")"
+    },
+    {
+      "id": 99,
+      "name": "898folding",
+      "image": "require(\"../assets/images/Inventory_items/898folding.png\")"
+    },
+    {
+      "id": 100,
+      "name": "902bookshel",
+      "image": "require(\"../assets/images/Inventory_items/902bookshel.jpg\")"
+    },
+    {
+      "id": 101,
+      "name": "90r2",
+      "image": "require(\"../assets/images/Inventory_items/90r2.jpg\")"
+    },
+    {
+      "id": 102,
+      "name": "925tall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/925tall-mirror.jpg\")"
+    },
+    {
+      "id": 103,
+      "name": "933plastic",
+      "image": "require(\"../assets/images/Inventory_items/933plastic.jpg\")"
+    },
+    {
+      "id": 104,
+      "name": "944wall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/944wall-mirror.jpg\")"
+    },
+    {
+      "id": 105,
+      "name": "983bed-w-box",
+      "image": "require(\"../assets/images/Inventory_items/983bed-w-box.jpg\")"
+    },
+    {
+      "id": 106,
+      "name": "997bookshel",
+      "image": "require(\"../assets/images/Inventory_items/997bookshel.jpg\")"
+    },
+    {
+      "id": 107,
+      "name": "almi",
+      "image": "require(\"../assets/images/Inventory_items/almi.jpg\")"
+    },
+    {
+      "id": 108,
+      "name": "Aquariumlarge",
+      "image": "require(\"../assets/images/Inventory_items/Aquariumlarge.jpg\")"
+    },
+    {
+      "id": 109,
+      "name": "AquariumSmall",
+      "image": "require(\"../assets/images/Inventory_items/AquariumSmall.jpg\")"
+    },
+    {
+      "id": 110,
+      "name": "b3",
+      "image": "require(\"../assets/images/Inventory_items/b3.png\")"
+    },
+    {
+      "id": 111,
+      "name": "bath tube-l",
+      "image": "require(\"../assets/images/Inventory_items/bath_tube-l.jpg\")"
+    },
+    {
+      "id": 112,
+      "name": "bath tube-s",
+      "image": "require(\"../assets/images/Inventory_items/bath_tube-s.jpg\")"
+    },
+    {
+      "id": 113,
+      "name": "bean-bag",
+      "image": "require(\"../assets/images/Inventory_items/bean-bag.jpg\")"
+    },
+    {
+      "id": 114,
+      "name": "bed-w-box",
+      "image": "require(\"../assets/images/Inventory_items/bed-w-box.jpg\")"
+    },
+    {
+      "id": 115,
+      "name": "bi-cycle",
+      "image": "require(\"../assets/images/Inventory_items/bi-cycle.jpg\")"
+    },
+    {
+      "id": 116,
+      "name": "blender",
+      "image": "require(\"../assets/images/Inventory_items/blender.jpg\")"
+    },
+    {
+      "id": 117,
+      "name": "bookcase",
+      "image": "require(\"../assets/images/Inventory_items/bookcase.jpg\")"
+    },
+    {
+      "id": 118,
+      "name": "bookshel",
+      "image": "require(\"../assets/images/Inventory_items/bookshel.jpg\")"
+    },
+    {
+      "id": 119,
+      "name": "bookshel2",
+      "image": "require(\"../assets/images/Inventory_items/bookshel2.jpg\")"
+    },
+    {
+      "id": 120,
+      "name": "bunk-bed",
+      "image": "require(\"../assets/images/Inventory_items/bunk-bed.jpg\")"
+    },
+    {
+      "id": 121,
+      "name": "bunk-bed2",
+      "image": "require(\"../assets/images/Inventory_items/bunk-bed2.jpg\")"
+    },
+    {
+      "id": 122,
+      "name": "c",
+      "image": "require(\"../assets/images/Inventory_items/c.png\")"
+    },
+    {
+      "id": 123,
+      "name": "carpet-l",
+      "image": "require(\"../assets/images/Inventory_items/carpet-l.jpg\")"
+    },
+    {
+      "id": 124,
+      "name": "carpet-s",
+      "image": "require(\"../assets/images/Inventory_items/carpet-s.jpg\")"
+    },
+    {
+      "id": 125,
+      "name": "casio",
+      "image": "require(\"../assets/images/Inventory_items/casio.jpg\")"
+    },
+    {
+      "id": 126,
+      "name": "cd-pl",
+      "image": "require(\"../assets/images/Inventory_items/cd-pl.jpg\")"
+    },
+    {
+      "id": 127,
+      "name": "ceiling-fan",
+      "image": "require(\"../assets/images/Inventory_items/ceiling-fan.jpg\")"
+    },
+    {
+      "id": 128,
+      "name": "center",
+      "image": "require(\"../assets/images/Inventory_items/center.png\")"
+    },
+    {
+      "id": 129,
+      "name": "chair-desk",
+      "image": "require(\"../assets/images/Inventory_items/chair-desk.jpg\")"
+    },
+    {
+      "id": 130,
+      "name": "chair",
+      "image": "require(\"../assets/images/Inventory_items/chair.jpg\")"
+    },
+    {
+      "id": 131,
+      "name": "chair123",
+      "image": "require(\"../assets/images/Inventory_items/chair123.png\")"
+    },
+    {
+      "id": 132,
+      "name": "chaleder",
+      "image": "require(\"../assets/images/Inventory_items/chaleder.jpg\")"
+    },
+    {
+      "id": 133,
+      "name": "chaleder2",
+      "image": "require(\"../assets/images/Inventory_items/chaleder2.jpg\")"
+    },
+    {
+      "id": 134,
+      "name": "chaleder3",
+      "image": "require(\"../assets/images/Inventory_items/chaleder3.jpg\")"
+    },
+    {
+      "id": 135,
+      "name": "classic-cabinet",
+      "image": "require(\"../assets/images/Inventory_items/classic-cabinet.jpg\")"
+    },
+    {
+      "id": 136,
+      "name": "cloth-img",
+      "image": "require(\"../assets/images/Inventory_items/cloth-img.jpg\")"
+    },
+    {
+      "id": 137,
+      "name": "coffe-maker",
+      "image": "require(\"../assets/images/Inventory_items/coffe-maker.jpg\")"
+    },
+    {
+      "id": 138,
+      "name": "coffee-t",
+      "image": "require(\"../assets/images/Inventory_items/coffee-t.png\")"
+    },
+    {
+      "id": 139,
+      "name": "comp",
+      "image": "require(\"../assets/images/Inventory_items/comp.jpg\")"
+    },
+    {
+      "id": 140,
+      "name": "cooler",
+      "image": "require(\"../assets/images/Inventory_items/cooler.jpg\")"
+    },
+    {
+      "id": 141,
+      "name": "cooler2",
+      "image": "require(\"../assets/images/Inventory_items/cooler2.jpg\")"
+    },
+    {
+      "id": 142,
+      "name": "cpu",
+      "image": "require(\"../assets/images/Inventory_items/cpu.jpg\")"
+    },
+    {
+      "id": 143,
+      "name": "craddle-bed",
+      "image": "require(\"../assets/images/Inventory_items/craddle-bed.jpg\")"
+    },
+    {
+      "id": 144,
+      "name": "cricket-kit",
+      "image": "require(\"../assets/images/Inventory_items/cricket-kit.jpg\")"
+    },
+    {
+      "id": 145,
+      "name": "cricket-kit2",
+      "image": "require(\"../assets/images/Inventory_items/cricket-kit2.jpg\")"
+    },
+    {
+      "id": 146,
+      "name": "crt-tv",
+      "image": "require(\"../assets/images/Inventory_items/crt-tv.jpg\")"
+    },
+    {
+      "id": 147,
+      "name": "crt",
+      "image": "require(\"../assets/images/Inventory_items/crt.jpg\")"
+    },
+    {
+      "id": 148,
+      "name": "custom",
+      "image": "require(\"../assets/images/Inventory_items/custom.png\")"
+    },
+    {
+      "id": 149,
+      "name": "cylinder",
+      "image": "require(\"../assets/images/Inventory_items/cylinder.jpg\")"
+    },
+    {
+      "id": 150,
+      "name": "d-chair",
+      "image": "require(\"../assets/images/Inventory_items/d-chair.jpg\")"
+    },
+    {
+      "id": 151,
+      "name": "d-chair",
+      "image": "require(\"../assets/images/Inventory_items/d-chair.png\")"
+    },
+    {
+      "id": 152,
+      "name": "d-speaker",
+      "image": "require(\"../assets/images/Inventory_items/d-speaker.jpg\")"
+    },
+    {
+      "id": 153,
+      "name": "dbl-dr",
+      "image": "require(\"../assets/images/Inventory_items/dbl-dr.jpg\")"
+    },
+    {
+      "id": 154,
+      "name": "desk",
+      "image": "require(\"../assets/images/Inventory_items/desk.jpg\")"
+    },
+    {
+      "id": 155,
+      "name": "desk2",
+      "image": "require(\"../assets/images/Inventory_items/desk2.jpg\")"
+    },
+    {
+      "id": 156,
+      "name": "dining-t",
+      "image": "require(\"../assets/images/Inventory_items/dining-t.png\")"
+    },
+    {
+      "id": 157,
+      "name": "dishwasher",
+      "image": "require(\"../assets/images/Inventory_items/dishwasher.jpg\")"
+    },
+    {
+      "id": 158,
+      "name": "disk-rack",
+      "image": "require(\"../assets/images/Inventory_items/disk-rack.jpg\")"
+    },
+    {
+      "id": 159,
+      "name": "display-cab",
+      "image": "require(\"../assets/images/Inventory_items/display-cab.jpg\")"
+    },
+    {
+      "id": 160,
+      "name": "diwan-bed",
+      "image": "require(\"../assets/images/Inventory_items/diwan-bed.jpg\")"
+    },
+    {
+      "id": 161,
+      "name": "double-b",
+      "image": "require(\"../assets/images/Inventory_items/double-b.jpg\")"
+    },
+    {
+      "id": 162,
+      "name": "dressing-t",
+      "image": "require(\"../assets/images/Inventory_items/dressing-t.png\")"
+    },
+    {
+      "id": 163,
+      "name": "dry-wash",
+      "image": "require(\"../assets/images/Inventory_items/dry-wash.jpg\")"
+    },
+    {
+      "id": 164,
+      "name": "dth",
+      "image": "require(\"../assets/images/Inventory_items/dth.jpg\")"
+    },
+    {
+      "id": 165,
+      "name": "dumbell",
+      "image": "require(\"../assets/images/Inventory_items/dumbell.jpg\")"
+    },
+    {
+      "id": 166,
+      "name": "dvd-player",
+      "image": "require(\"../assets/images/Inventory_items/dvd-player.jpg\")"
+    },
+    {
+      "id": 167,
+      "name": "ex-bike",
+      "image": "require(\"../assets/images/Inventory_items/ex-bike.jpg\")"
+    },
+    {
+      "id": 168,
+      "name": "extralargebox",
+      "image": "require(\"../assets/images/Inventory_items/extralargebox.jpg\")"
+    },
+    {
+      "id": 169,
+      "name": "f",
+      "image": "require(\"../assets/images/Inventory_items/f.jpg\")"
+    },
+    {
+      "id": 170,
+      "name": "fax-machine",
+      "image": "require(\"../assets/images/Inventory_items/fax-machine.jpg\")"
+    },
+    {
+      "id": 171,
+      "name": "fi",
+      "image": "require(\"../assets/images/Inventory_items/fi.jpg\")"
+    },
+    {
+      "id": 172,
+      "name": "FileBox",
+      "image": "require(\"../assets/images/Inventory_items/FileBox.png\")"
+    },
+    {
+      "id": 173,
+      "name": "flat planel-tv",
+      "image": "require(\"../assets/images/Inventory_items/flat_planel-tv.jpg\")"
+    },
+    {
+      "id": 174,
+      "name": "floor-plot",
+      "image": "require(\"../assets/images/Inventory_items/floor-plot.jpg\")"
+    },
+    {
+      "id": 175,
+      "name": "flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/flr-lamp.jpg\")"
+    },
+    {
+      "id": 176,
+      "name": "folding",
+      "image": "require(\"../assets/images/Inventory_items/folding.png\")"
+    },
+    {
+      "id": 177,
+      "name": "foot-sofa",
+      "image": "require(\"../assets/images/Inventory_items/foot-sofa.jpg\")"
+    },
+    {
+      "id": 178,
+      "name": "front-loader",
+      "image": "require(\"../assets/images/Inventory_items/front-loader.jpg\")"
+    },
+    {
+      "id": 179,
+      "name": "front-loader2",
+      "image": "require(\"../assets/images/Inventory_items/front-loader2.jpg\")"
+    },
+    {
+      "id": 180,
+      "name": "gas-stove",
+      "image": "require(\"../assets/images/Inventory_items/gas-stove.jpg\")"
+    },
+    {
+      "id": 181,
+      "name": "Geyser",
+      "image": "require(\"../assets/images/Inventory_items/Geyser.jpg\")"
+    },
+    {
+      "id": 182,
+      "name": "glas-cent-t",
+      "image": "require(\"../assets/images/Inventory_items/glas-cent-t.jpg\")"
+    },
+    {
+      "id": 183,
+      "name": "gls coffee table",
+      "image": "require(\"../assets/images/Inventory_items/gls_coffee_table.jpg\")"
+    },
+    {
+      "id": 184,
+      "name": "golfkit",
+      "image": "require(\"../assets/images/Inventory_items/golfkit.jpg\")"
+    },
+    {
+      "id": 185,
+      "name": "grinder",
+      "image": "require(\"../assets/images/Inventory_items/grinder.jpg\")"
+    },
+    {
+      "id": 186,
+      "name": "guitar",
+      "image": "require(\"../assets/images/Inventory_items/guitar.jpg\")"
+    },
+    {
+      "id": 187,
+      "name": "harmonium",
+      "image": "require(\"../assets/images/Inventory_items/harmonium.jpg\")"
+    },
+    {
+      "id": 188,
+      "name": "HatcCar",
+      "image": "require(\"../assets/images/Inventory_items/HatcCar.jpg\")"
+    },
+    {
+      "id": 189,
+      "name": "HatcCar2",
+      "image": "require(\"../assets/images/Inventory_items/HatcCar2.jpg\")"
+    },
+    {
+      "id": 190,
+      "name": "high-flr-lamp",
+      "image": "require(\"../assets/images/Inventory_items/high-flr-lamp.jpg\")"
+    },
+    {
+      "id": 191,
+      "name": "inverter",
+      "image": "require(\"../assets/images/Inventory_items/inverter.jpg\")"
+    },
+    {
+      "id": 192,
+      "name": "iron-board",
+      "image": "require(\"../assets/images/Inventory_items/iron-board.jpg\")"
+    },
+    {
+      "id": 193,
+      "name": "jeep",
+      "image": "require(\"../assets/images/Inventory_items/jeep.jpg\")"
+    },
+    {
+      "id": 194,
+      "name": "kid-ch",
+      "image": "require(\"../assets/images/Inventory_items/kid-ch.jpg\")"
+    },
+    {
+      "id": 195,
+      "name": "kid-t",
+      "image": "require(\"../assets/images/Inventory_items/kid-t.jpg\")"
+    },
+    {
+      "id": 196,
+      "name": "kid-trycle",
+      "image": "require(\"../assets/images/Inventory_items/kid-trycle.jpg\")"
+    },
+    {
+      "id": 197,
+      "name": "kide-cycle",
+      "image": "require(\"../assets/images/Inventory_items/kide-cycle.jpg\")"
+    },
+    {
+      "id": 198,
+      "name": "king-b",
+      "image": "require(\"../assets/images/Inventory_items/king-b.jpg\")"
+    },
+    {
+      "id": 199,
+      "name": "kit-cab",
+      "image": "require(\"../assets/images/Inventory_items/kit-cab.jpg\")"
+    },
+    {
+      "id": 200,
+      "name": "kit-chh",
+      "image": "require(\"../assets/images/Inventory_items/kit-chh.jpg\")"
+    },
+    {
+      "id": 201,
+      "name": "kit-rack",
+      "image": "require(\"../assets/images/Inventory_items/kit-rack.jpg\")"
+    },
+    {
+      "id": 202,
+      "name": "lap",
+      "image": "require(\"../assets/images/Inventory_items/lap.jpg\")"
+    },
+    {
+      "id": 203,
+      "name": "largbox",
+      "image": "require(\"../assets/images/Inventory_items/largbox.png\")"
+    },
+    {
+      "id": 204,
+      "name": "larger-drawer",
+      "image": "require(\"../assets/images/Inventory_items/larger-drawer.jpg\")"
+    },
+    {
+      "id": 205,
+      "name": "LegalFileBox",
+      "image": "require(\"../assets/images/Inventory_items/LegalFileBox.png\")"
+    },
+    {
+      "id": 206,
+      "name": "long-spe",
+      "image": "require(\"../assets/images/Inventory_items/long-spe.jpg\")"
+    },
+    {
+      "id": 207,
+      "name": "mediumbox",
+      "image": "require(\"../assets/images/Inventory_items/mediumbox.png\")"
+    },
+    {
+      "id": 208,
+      "name": "metal-be",
+      "image": "require(\"../assets/images/Inventory_items/metal-be.jpg\")"
+    },
+    {
+      "id": 209,
+      "name": "monitor",
+      "image": "require(\"../assets/images/Inventory_items/monitor.jpg\")"
+    },
+    {
+      "id": 210,
+      "name": "motor",
+      "image": "require(\"../assets/images/Inventory_items/motor.jpg\")"
+    },
+    {
+      "id": 211,
+      "name": "notfound",
+      "image": "require(\"../assets/images/Inventory_items/notfound.png\")"
+    },
+    {
+      "id": 212,
+      "name": "office table",
+      "image": "require(\"../assets/images/Inventory_items/office_table.jpg\")"
+    },
+    {
+      "id": 213,
+      "name": "oval-mirror",
+      "image": "require(\"../assets/images/Inventory_items/oval-mirror.jpg\")"
+    },
+    {
+      "id": 214,
+      "name": "oven-ck",
+      "image": "require(\"../assets/images/Inventory_items/oven-ck.jpg\")"
+    },
+    {
+      "id": 215,
+      "name": "oven-otg",
+      "image": "require(\"../assets/images/Inventory_items/oven-otg.jpg\")"
+    },
+    {
+      "id": 216,
+      "name": "oven",
+      "image": "require(\"../assets/images/Inventory_items/oven.jpg\")"
+    },
+    {
+      "id": 217,
+      "name": "painting-t",
+      "image": "require(\"../assets/images/Inventory_items/painting-t.jpeg\")"
+    },
+    {
+      "id": 218,
+      "name": "pedestalFan",
+      "image": "require(\"../assets/images/Inventory_items/pedestalFan.jpg\")"
+    },
+    {
+      "id": 219,
+      "name": "pho-f",
+      "image": "require(\"../assets/images/Inventory_items/pho-f.jpg\")"
+    },
+    {
+      "id": 220,
+      "name": "piano",
+      "image": "require(\"../assets/images/Inventory_items/piano.jpg\")"
+    },
+    {
+      "id": 221,
+      "name": "pl",
+      "image": "require(\"../assets/images/Inventory_items/pl.jpg\")"
+    },
+    {
+      "id": 222,
+      "name": "plant",
+      "image": "require(\"../assets/images/Inventory_items/plant.jpg\")"
+    },
+    {
+      "id": 223,
+      "name": "plant2",
+      "image": "require(\"../assets/images/Inventory_items/plant2.jpg\")"
+    },
+    {
+      "id": 224,
+      "name": "plastic-drum",
+      "image": "require(\"../assets/images/Inventory_items/plastic-drum.jpg\")"
+    },
+    {
+      "id": 225,
+      "name": "plastic",
+      "image": "require(\"../assets/images/Inventory_items/plastic.jpg\")"
+    },
+    {
+      "id": 226,
+      "name": "pool-table",
+      "image": "require(\"../assets/images/Inventory_items/pool-table.jpg\")"
+    },
+    {
+      "id": 227,
+      "name": "queen-bed",
+      "image": "require(\"../assets/images/Inventory_items/queen-bed.jpg\")"
+    },
+    {
+      "id": 228,
+      "name": "quen-mta",
+      "image": "require(\"../assets/images/Inventory_items/quen-mta.jpg\")"
+    },
+    {
+      "id": 229,
+      "name": "quilt-bed",
+      "image": "require(\"../assets/images/Inventory_items/quilt-bed.jpg\")"
+    },
+    {
+      "id": 230,
+      "name": "r1",
+      "image": "require(\"../assets/images/Inventory_items/r1.jpg\")"
+    },
+    {
+      "id": 231,
+      "name": "r2",
+      "image": "require(\"../assets/images/Inventory_items/r2.jpg\")"
+    },
+    {
+      "id": 232,
+      "name": "r3",
+      "image": "require(\"../assets/images/Inventory_items/r3.jpg\")"
+    },
+    {
+      "id": 233,
+      "name": "r4",
+      "image": "require(\"../assets/images/Inventory_items/r4.jpg\")"
+    },
+    {
+      "id": 234,
+      "name": "Recliner",
+      "image": "require(\"../assets/images/Inventory_items/Recliner.jpg\")"
+    },
+    {
+      "id": 235,
+      "name": "Recliner",
+      "image": "require(\"../assets/images/Inventory_items/Recliner.png\")"
+    },
+    {
+      "id": 236,
+      "name": "retro",
+      "image": "require(\"../assets/images/Inventory_items/retro.jpg\")"
+    },
+    {
+      "id": 237,
+      "name": "rockying",
+      "image": "require(\"../assets/images/Inventory_items/rockying.jpg\")"
+    },
+    {
+      "id": 238,
+      "name": "roll-bed",
+      "image": "require(\"../assets/images/Inventory_items/roll-bed.jpg\")"
+    },
+    {
+      "id": 239,
+      "name": "rolling chair",
+      "image": "require(\"../assets/images/Inventory_items/rolling_chair.jpg\")"
+    },
+    {
+      "id": 240,
+      "name": "room-heater",
+      "image": "require(\"../assets/images/Inventory_items/room-heater.jpg\")"
+    },
+    {
+      "id": 241,
+      "name": "round",
+      "image": "require(\"../assets/images/Inventory_items/round.jpg\")"
+    },
+    {
+      "id": 242,
+      "name": "scootr",
+      "image": "require(\"../assets/images/Inventory_items/scootr.jpg\")"
+    },
+    {
+      "id": 243,
+      "name": "scooty",
+      "image": "require(\"../assets/images/Inventory_items/scooty.jpg\")"
+    },
+    {
+      "id": 244,
+      "name": "seater1",
+      "image": "require(\"../assets/images/Inventory_items/seater1.png\")"
+    },
+    {
+      "id": 245,
+      "name": "seater2",
+      "image": "require(\"../assets/images/Inventory_items/seater2.png\")"
+    },
+    {
+      "id": 246,
+      "name": "seater3",
+      "image": "require(\"../assets/images/Inventory_items/seater3.png\")"
+    },
+    {
+      "id": 247,
+      "name": "SedanCar",
+      "image": "require(\"../assets/images/Inventory_items/SedanCar.jpg\")"
+    },
+    {
+      "id": 248,
+      "name": "SewingMachine",
+      "image": "require(\"../assets/images/Inventory_items/SewingMachine.jpg\")"
+    },
+    {
+      "id": 249,
+      "name": "shoe-rack",
+      "image": "require(\"../assets/images/Inventory_items/shoe-rack.jpg\")"
+    },
+    {
+      "id": 250,
+      "name": "side-table",
+      "image": "require(\"../assets/images/Inventory_items/side-table.png\")"
+    },
+    {
+      "id": 251,
+      "name": "sing-cot-bedd",
+      "image": "require(\"../assets/images/Inventory_items/sing-cot-bedd.jpg\")"
+    },
+    {
+      "id": 252,
+      "name": "single mat",
+      "image": "require(\"../assets/images/Inventory_items/single_mat.jpg\")"
+    },
+    {
+      "id": 253,
+      "name": "small-drawer",
+      "image": "require(\"../assets/images/Inventory_items/small-drawer.jpg\")"
+    },
+    {
+      "id": 254,
+      "name": "small misc box",
+      "image": "require(\"../assets/images/Inventory_items/small_misc_box.png\")"
+    },
+    {
+      "id": 255,
+      "name": "sofa-bed",
+      "image": "require(\"../assets/images/Inventory_items/sofa-bed.png\")"
+    },
+    {
+      "id": 256,
+      "name": "speaker",
+      "image": "require(\"../assets/images/Inventory_items/speaker.jpg\")"
+    },
+    {
+      "id": 257,
+      "name": "sportsBike",
+      "image": "require(\"../assets/images/Inventory_items/sportsBike.jpg\")"
+    },
+    {
+      "id": 258,
+      "name": "statue",
+      "image": "require(\"../assets/images/Inventory_items/statue.jpg\")"
+    },
+    {
+      "id": 259,
+      "name": "stool",
+      "image": "require(\"../assets/images/Inventory_items/stool.png\")"
+    },
+    {
+      "id": 260,
+      "name": "study table",
+      "image": "require(\"../assets/images/Inventory_items/study_table.png\")"
+    },
+    {
+      "id": 261,
+      "name": "suv-car",
+      "image": "require(\"../assets/images/Inventory_items/suv-car.jpg\")"
+    },
+    {
+      "id": 262,
+      "name": "suv",
+      "image": "require(\"../assets/images/Inventory_items/suv.jpg\")"
+    },
+    {
+      "id": 263,
+      "name": "tabla",
+      "image": "require(\"../assets/images/Inventory_items/tabla.jpg\")"
+    },
+    {
+      "id": 264,
+      "name": "table-lamp",
+      "image": "require(\"../assets/images/Inventory_items/table-lamp.jpg\")"
+    },
+    {
+      "id": 265,
+      "name": "tall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/tall-mirror.jpg\")"
+    },
+    {
+      "id": 266,
+      "name": "temple",
+      "image": "require(\"../assets/images/Inventory_items/temple.jpg\")"
+    },
+    {
+      "id": 267,
+      "name": "toaster",
+      "image": "require(\"../assets/images/Inventory_items/toaster.jpg\")"
+    },
+    {
+      "id": 268,
+      "name": "tower-cooler",
+      "image": "require(\"../assets/images/Inventory_items/tower-cooler.jpeg\")"
+    },
+    {
+      "id": 269,
+      "name": "treadmill",
+      "image": "require(\"../assets/images/Inventory_items/treadmill.jpg\")"
+    },
+    {
+      "id": 270,
+      "name": "TrolleySuitcase",
+      "image": "require(\"../assets/images/Inventory_items/TrolleySuitcase.jpg\")"
+    },
+    {
+      "id": 271,
+      "name": "tv-stand",
+      "image": "require(\"../assets/images/Inventory_items/tv-stand.jpg\")"
+    },
+    {
+      "id": 272,
+      "name": "tv-stand2",
+      "image": "require(\"../assets/images/Inventory_items/tv-stand2.jpg\")"
+    },
+    {
+      "id": 273,
+      "name": "type-write",
+      "image": "require(\"../assets/images/Inventory_items/type-write.jpg\")"
+    },
+    {
+      "id": 274,
+      "name": "wall-mirror",
+      "image": "require(\"../assets/images/Inventory_items/wall-mirror.jpg\")"
+    },
+    {
+      "id": 275,
+      "name": "wall-mounted-fan",
+      "image": "require(\"../assets/images/Inventory_items/wall-mounted-fan.jpg\")"
+    },
+    {
+      "id": 276,
+      "name": "WardrobeBox",
+      "image": "require(\"../assets/images/Inventory_items/WardrobeBox.png\")"
+    },
+    {
+      "id": 277,
+      "name": "water-heater",
+      "image": "require(\"../assets/images/Inventory_items/water-heater.jpg\")"
+    },
+    {
+      "id": 278,
+      "name": "water-puifier",
+      "image": "require(\"../assets/images/Inventory_items/water-puifier.jpg\")"
+    },
+    {
+      "id": 279,
+      "name": "wet-grinder",
+      "image": "require(\"../assets/images/Inventory_items/wet-grinder.jpg\")"
+    },
+    {
+      "id": 280,
+      "name": "wh",
+      "image": "require(\"../assets/images/Inventory_items/wh.jpg\")"
+    },
+    {
+      "id": 281,
+      "name": "wh2",
+      "image": "require(\"../assets/images/Inventory_items/wh2.jpg\")"
+    },
+    {
+      "id": 282,
+      "name": "wind-cooler",
+      "image": "require(\"../assets/images/Inventory_items/wind-cooler.jpg\")"
+    }
+  ]
+}
