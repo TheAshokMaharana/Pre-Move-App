@@ -1,0 +1,29 @@
+# React Native / Android build artifacts
+preMove/node_modules/
+preMove/android/
+preMove/android/app/build/
+preMove/android/app/.cxx/
+preMove/android/.gradle/
+preMove/build/
+preMove/ios/
+preMove/.cxx/
+
+# Large compiled artifacts
+*.apk
+*.aab
+*.so
+*.aar
+*.exe
+*.dll
+
+# Node / caches
+preMove/.expo/
+preMove/.bundle/
+preMove/.gradle/
+
+# Editor / OS
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
